@@ -1,9 +1,11 @@
 # Machine-Learnings-Algorithms
 This project contains from scratch implementations of machine learning algorithms
 
-## mini_batch_gradient_descent.py
-linear regression using mini-batch optimization
-## gradient_descent.py
-linear regression using batch gradient descent optimization
-## logisitic regression 
-an implementation of logistic regression optimizing it using batch gradient descent
+## Implementations
+- [Mini Batch Gradient Descent](https://github.com/mohammedElfatihSalah/Machine-Learnings-Algorithms/blob/main/mini_batch_gradient_descent.py)
+- [Gradient Descent](https://github.com/mohammedElfatihSalah/Machine-Learnings-Algorithms/blob/main/gradient_descent.py)
+- [Logistic Regression](https://github.com/mohammedElfatihSalah/Machine-Learnings-Algorithms/blob/main/logisitic_regression.py)
+- [Principle Component Analysis](https://github.com/mohammedElfatihSalah/Machine-Learnings-Algorithms/blob/main/pca.py)
+- [K Nearest Neighbour](https://github.com/mohammedElfatihSalah/Machine-Learnings-Algorithms/blob/main/knn.py)
+- [K Means Clustering](https://github.com/mohammedElfatihSalah/Machine-Learnings-Algorithms/blob/main/kmeans.py)
+
