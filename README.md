@@ -8,4 +8,5 @@ This project contains from scratch implementations of machine learning algorithm
 - [Principle Component Analysis](https://github.com/mohammedElfatihSalah/Machine-Learnings-Algorithms/blob/main/pca.py)
 - [K Nearest Neighbour](https://github.com/mohammedElfatihSalah/Machine-Learnings-Algorithms/blob/main/knn.py)
 - [K Means Clustering](https://github.com/mohammedElfatihSalah/Machine-Learnings-Algorithms/blob/main/kmeans.py)
+- [SVM](https://github.com/mohammedElfatihSalah/Machine-Learnings-Algorithms/blob/main/svm.py)
 
