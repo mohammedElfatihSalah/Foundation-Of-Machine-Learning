@@ -9,4 +9,5 @@ This project contains from scratch implementations of machine learning algorithm
 - [K Nearest Neighbour](https://github.com/mohammedElfatihSalah/Machine-Learnings-Algorithms/blob/main/knn.py)
 - [K Means Clustering](https://github.com/mohammedElfatihSalah/Machine-Learnings-Algorithms/blob/main/kmeans.py)
 - [SVM](https://github.com/mohammedElfatihSalah/Machine-Learnings-Algorithms/blob/main/svm.py)
+- [Convolutional Neural Network](https://github.com/mohammedElfatihSalah/Machine-Learnings-Algorithms/blob/main/cnn.py)
 
